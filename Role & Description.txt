@@ -1,0 +1,25 @@
+Employment Responsibilities :
+
+Developed a predictive maintenance algorithm which reduced the asset downtime by 26%. 
+Built a battery End of Life Prediction Model for the Electric bus. 
+Dealt with all expense and payroll related issues in the cognizant. We'll do bank integrations from HCM to ESA to load all the payment related information in PeopleSoft tables. Also involved in fixing hundreds of defects during daily pay cycle runs.
+
+Profile Summary :
+
+1. Experience in designing Artificial Intelligence applications with Machine Learning techniques includes Regression, Classification, Data Analysis and Neural Networks.
+2. Skilled in Python libraries such as Sklearn, Numpy, Pandas, Matplotlib for Data Visualization.
+3. Extensive knowledge of working with SQL databases like Oracle and MySQL.
+4. Additional skills of Python, Java & EDA.
+5. Ability to work independently as well as in team environment.
+6. Also worked independently for deployment of ML Models in Heroku.
+
+Skills :
+
+✓ Python
+✓ SQL / Oracle
+✓ Exploratory Data Analysis
+✓ Statistical modeling & Machine Learning
+✓ Artificial Neural Networks & Convolutional Neural Networks.
+✓ NLP / Sequence to sequence learning with Neural Networks.
+✓ Heroku / Git
+✓ PeopleSoft Application Designer and PeopleCode
